@@ -1,0 +1,12 @@
+# Instruments: NACO on VLT, NIRC2 on Keck, GPI, SPHERE
+# Published in 
+# [1] Peretti, S., S´egransan, D., Lavie, B., et al. 2018, ArXiv e-prints, 1805.05645
+# [2] Crepp, J. R., Gonzales, E. J., Bechter, E. B., et al. 2016, ApJ, 831, 136
+# [3] Crepp, J. R., Principe, D. A., Wolff, S., et al. 2018, ApJ, 853, 192
+# [4] Peretti, S., S´egransan, D., Lavie, B., et al. 2018, ArXiv e-prints, 1805.05645
+##
+# File format
+# Date     Sep    Err_Sep      PA  Err_PA  Sep_PA_Corr  PlanetID
+ 2015.41   0.240    0.080      85.0     30.0     0         0
+ 2022.29	  0.10291   0.00001   143.448   0.009    0        0     
+
